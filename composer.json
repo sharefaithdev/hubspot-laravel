@@ -13,7 +13,7 @@
     ],
     "require": {
         "php" : "^7.0",
-        "illuminate/support": "5.7.* || 5.8.* || ^6.0 || ^7.0",
+        "illuminate/support": "5.7.* || 5.8.* || ^6.0 || ^7.0 || ^8.0",
         "sharefaithdev/hubspot-php": "~2.0.6"
     },
     "autoload": {
