@@ -1,17 +1,20 @@
 {
-    "name": "springboardvr/hubspot-laravel",
+    "name": "sharefaithdev/hubspot-laravel",
     "description": "HubSpot API wrapper for Laravel 5.5+.",
     "keywords": ["hubspot", "laravel", "php"],
     "license": "MIT",
     "authors": [
         {
             "name": "Michael Slowik"
-        }
+        },
+        {
+            "name": "Sharefaith"  
+        },
     ],
     "require": {
         "php" : "^7.0",
         "illuminate/support": "5.7.* || 5.8.* || ^6.0 || ^7.0",
-        "hubspot/hubspot-php": "~1.0"
+        "sharefaithdev/hubspot-php": "~2.0.6"
     },
     "autoload": {
         "psr-4": {
